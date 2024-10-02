@@ -20,6 +20,7 @@ public class Contrat implements Serializable {
 	/**
 	 * 
 	 */
+	//modification pour git ///////
 	private static final long serialVersionUID = 1L;
 
 	@Id
